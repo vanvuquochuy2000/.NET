@@ -1,0 +1,254 @@
+﻿create database QLSACH_BANSACH
+use QLSACH_BANSACH
+
+CREATE TABLE SACH
+(
+	MASACH CHAR(10) NOT NULL PRIMARY KEY,
+	TENSACH NVARCHAR(50),
+	TACGIA CHAR(10),	
+	NXB CHAR(10),
+	THELOAI CHAR(10),
+	GIABAN INT,
+	SOLUONG INT
+)
+
+update SACH 
+set  TENSACH = '', TACGIA = '', NXB = '', THELOAI = '',GIABAN ='',SOLUONG =''
+where MASACH = ''
+
+INSERT INTO SACH VALUES('SH1',N'sách văn học','TG1','NXB1','TL1',15000,50)
+INSERT INTO SACH VALUES('SH2',N'sách giải toán','TG2','NXB2','TL1',20000,30)
+INSERT INTO SACH VALUES('SH3',N'sách sinh học','TG3','NXB3','TL2',30000,20)
+INSERT INTO SACH VALUES('SH4',N'sách anh văn B1','TG4','NXB4','TL2',45000,10)
+INSERT INTO SACH VALUES('SH5',N'sách anh văn B2','TG5','NXB5','TL3',45000,10)
+INSERT INTO SACH VALUES('SH6',N'sách GDCD','TG6','NXB6','TL3',15000,50)
+INSERT INTO SACH VALUES('SH7',N'sách mác-lênin','TG7','NXB7','TL4',20000,60)
+INSERT INTO SACH VALUES('SH8',N'sách luyện công nghệ thông tin','TG8','NXB8','TL4',30000,30)
+INSERT INTO SACH VALUES('SH9',N'sách hướng đối tượng','TG9','NXB9','TL5',15000,50)
+INSERT INTO SACH VALUES('SH10',N'sách ôn thi thpt','TG10','NXB10','TL5',50000,100)
+
+select * from sach
+
+CREATE TABLE NHAXUATBAN
+(
+	MANXB CHAR(10) NOT NULL PRIMARY KEY,
+	TENNXB NVARCHAR(50),
+	DIACHI NVARCHAR(50),
+	SDT char(10)
+)
+
+insert into NHAXUATBAN values ('NXB1', N'Nhà xuất bản Trẻ', N'124 Nguyễn Văn Cừ Q.1 Tp.HCM', N'1900156045')
+insert into NHAXUATBAN values ('NXB2', N'NXB Thống kê', N'Biên Hòa-Đồng Nai', N'1900151112')
+insert into NHAXUATBAN values ('NXB3', N'Kim đồng', N'Tp.HCM', N'1900157090')
+insert into NHAXUATBAN values ('NXB4', N'Đại học quốc gia', N'Tp.HCM', N'0908419981')
+insert into NHAXUATBAN values ('NXB5', N'Văn hóa nghệ thuật', N'Đà Nẵng', N'0903118833')
+insert into NHAXUATBAN values ('NXB6', N'Văn hóa', N'Bình Dương', N'0913336677')
+insert into NHAXUATBAN values ('NXB7', N'NXB Lao động - Xã hội', N'Tp.HCM', N'0989888888')
+insert into NHAXUATBAN values ('NXB8', N'Khoa Học & Kỹ Thuật', N'Hà Nội', N'0903118824')
+insert into NHAXUATBAN values ('NXB9', N'Thanh Niên', N'Tp.HCM', N'0903118811')
+insert into NHAXUATBAN values ('NXB10', N'NXB Tài Chính', N'Huế', N'0903118833')
+
+
+CREATE TABLE TACGIA
+(
+	MATG CHAR(10) NOT NULL PRIMARY KEY,
+	TENTG NVARCHAR(50),
+	DiaChi nvarchar(50),
+	SDT char(10)
+)
+
+INSERT into TACGIA values ('TG1', N'Tenzin Gyatso', N'179 Chánh Hưng F.4 Q.8 Tp.HCM', N'123456789')
+INSERT into TACGIA values ('TG2', N'Trịnh Xuân Thuận', N'179 Chánh Hưng F.4 Q.8 Tp.HCM', N'123456789')
+INSERT into TACGIA values ('TG3', N'Matthieu Ricard', N'179 Chánh Hưng F.4 Q.8 Tp.HCM', N'123456789')
+INSERT into TACGIA values ('TG4', N'Rinpoche', N'179 Chánh Hưng F.4 Q.8 Tp.HCM', N'123456789')
+INSERT into TACGIA values ('TG5', N'GYALWANG DRUKPA XII', N'179 Chánh Hưng F.4 Q.8 Tp.HCM', N'123456789')
+INSERT into TACGIA values ('TG6', N'Nguyên Phong', N'179 Chánh Hưng F.4 Q.8 Tp.HCM', N'123456789')
+INSERT into TACGIA values ('TG7', N'Lama Zopa', N'179 Chánh Hưng F.4 Q.8 Tp.HCM', N'123456789')
+INSERT into TACGIA values ('TG8', N'Govinda', N'179 Chánh Hưng F.4 Q.8 Tp.HCM', N'123456789')
+INSERT into TACGIA values ('TG9', N'Trí Hải', N'179 Chánh Hưng F.4 Q.8 Tp.HCM', N'123456789')
+INSERT into TACGIA values ('TG10', N'Ngọc Bích', N'179 Chánh Hưng F.4 Q.8 Tp.HCM', N'123456789')
+
+select * from TACGIA
+
+CREATE TABLE THELOAI
+(
+	MATL CHAR(10) NOT NULL PRIMARY KEY,
+	TENTL NVARCHAR(50)
+)
+
+INSERT INTO THELOAI VALUES('TL1',N'giáo dục')
+INSERT INTO THELOAI VALUES('TL2',N'hướng dẫn')
+INSERT INTO THELOAI VALUES('TL3',N'chính trị')
+INSERT INTO THELOAI VALUES('TL4',N'văn học')
+INSERT INTO THELOAI VALUES('TL5',N'sách giải')
+
+CREATE TABLE HOADON
+(
+	MAHD nvarchar(10) PRIMARY KEY CONSTRAINT IDHDChinh DEFAULT DBO.AUTO_IDHDChinh(),
+	MASH CHAR(10),
+	MAKH CHAR(10),
+	NGAYHD DATETIME,
+	SOLUONG INT,
+	GIABAN INT,
+	THANHTIEN INT
+)
+select * from HOADON
+insert into HOADON values (DBO.AUTO_IDHDChinh(),'SH1','KH1',2020-10-25,2,15000,30000)
+insert into HOADON values (DBO.AUTO_IDHDChinh(),'SH1','KH1',2020-10-25,2,15000,30000)
+insert into HOADON values (DBO.AUTO_IDHDChinh(),'SH1','KH1',2020-10-25,2,15000,30000)
+insert into HOADON values (DBO.AUTO_IDHDChinh(),'SH1','KH1',2020/12/25,2,15000,30000)
+
+update from HOADON set MAHD
+
+CREATE FUNCTION AUTO_IDHDChinh()
+RETURNS VARCHAR(10)
+AS
+BEGIN
+	DECLARE @ID VARCHAR(10)
+	IF (SELECT COUNT(MAHD) FROM HOADON) = 0
+		SET @ID = '0'
+	ELSE
+		SELECT @ID = MAX(RIGHT(MAHD, 3)) FROM HOADON
+		SELECT @ID = CASE
+			WHEN @ID >= 0 and @ID < 9 THEN 'HD00' + CONVERT(nvarchar, CONVERT(char, @ID) + 1)
+			WHEN @ID >= 9 THEN 'HD0' + CONVERT(nvarchar, CONVERT(INT, @ID) + 1)
+		END
+	RETURN @ID
+END
+
+
+
+
+CREATE TABLE NHANVIEN
+(
+	MANV CHAR(10) NOT NULL PRIMARY KEY,
+	HOTEN NVARCHAR(50),
+	NGAYSINH DATETIME,
+	GIOITINH NVARCHAR(5),
+	LUONG INT,
+	SDT char(10),
+	TAIKHOAN CHAR(50),
+	MATKHAU CHAR(50),
+)
+
+--select count(*) NHANVIEN where MANV = ''
+
+INSERT INTO NHANVIEN VALUES('NV1',N'Văn Vũ Quốc Huy','2000/02/16',N'nam',6000000,'0358859490','huy','123')
+INSERT INTO NHANVIEN VALUES('NV2',N'Bùi Trọng Phát','2000/01/01',N'nam',6000000,'123456789','phat','123')
+
+
+
+CREATE TABLE KHACHHANG
+(
+	MAKH CHAR(10) NOT NULL PRIMARY KEY,
+	TENKH NVARCHAR(50),
+	NGAYSINH DATETIME,
+	GIOITINH NVARCHAR(5),
+	SDT char(10),
+	TAIKHOAN CHAR(50),
+	MATKHAU CHAR(50),
+	DIACHI NVARCHAR(50)
+)
+
+INSERT INTO KHACHHANG VALUES('KH1',N'Nguyễn Thị Bảo Trân','2000/02/16',N'nữ','0358859490','tran','123',N'an giang')
+INSERT INTO KHACHHANG VALUES('KH2',N'Nguyễn Cao Long','2000/01/01',N'nam','123456789','long','123',N'sài gòn')
+INSERT INTO KHACHHANG VALUES('KH3',N'Nguyễn Bí Đỏ','2000/01/01',N'nam','987654321','do','123',N'bến tre')
+INSERT INTO KHACHHANG VALUES('KH4',N'Nguyễn Dưa Hấu','2000/02/16',N'nam','0358859490','hau','123',N'bình định')
+INSERT INTO KHACHHANG VALUES('KH5',N'Nguyễn heo con','2000/01/01',N'nữ','123456789','con','123',N'hà nội')
+
+select * from KHACHHANG
+select count(*) from KHACHHANG where MAKH ='KH1'
+------------TABLE SACH-----------
+ALTER TABLE SACH
+ADD CONSTRAINT FK_SACH_TACGIA FOREIGN KEY (TACGIA) REFERENCES TACGIA(MATG)
+ALTER TABLE SACH
+ADD	CONSTRAINT FK_SACH_NHAXUATBAN FOREIGN KEY (NXB) REFERENCES NHAXUATBAN(MANXB)
+ALTER TABLE SACH
+ADD CONSTRAINT FK_SACH_THELOAI FOREIGN KEY (THELOAI) REFERENCES THELOAI(MATL)
+
+------------TABLE HOADON-----------
+ALTER TABLE HOADON
+ADD CONSTRAINT FK_HOADON_KHACHHANG FOREIGN KEY (MAKH) REFERENCES KHACHHANG(MAKH)
+ALTER TABLE HOADON
+ADD CONSTRAINT FK_HOADON_SACH FOREIGN KEY (MASH) REFERENCES SACH(MASACH)
+
+
+
+--create view THONGTINSACH
+--as
+--	select MASACH, TENSACH, THELOAI, TENTG, TENNXB, GIABAN, SOLUONG
+--	from SACH, TACGIA, NHAXUATBAN
+--	where SACH.TACGIA = TACGIA.MATG and SACH.NXB = NHAXUATBAN.MANXB
+--go
+
+--select * from THONGTINSACH
+
+
+
+select * from BANSACH
+insert into BANSACH values ('vvv','aaa','bbb',2,15000)
+insert into BANSACH values ('','aaa','bbb',2,15000)
+insert into BANSACH values ('DBO.AUTO_IDHDDD()','bbb',2,15000)
+----------------------------------------
+CREATE FUNCTION AUTO_IDHDD()
+RETURNS VARCHAR(5)
+AS
+BEGIN
+	DECLARE @ID VARCHAR(5)
+	IF (SELECT COUNT(MAHOADON) FROM BANSACHH) = 0
+		SET @ID = '0'
+	ELSE
+		SELECT @ID = MAX(RIGHT(MAHOADON, 3)) FROM BANSACHH
+		SELECT @ID = CASE
+			WHEN @ID >= 0 and @ID < 9 THEN 'HD00' + CONVERT(CHAR, CONVERT(INT, @ID) + 1)
+			WHEN @ID >= 9 THEN 'HD0' + CONVERT(CHAR, CONVERT(INT, @ID) + 1)
+		END
+	RETURN @ID
+END
+
+
+create table BANSACHH
+(
+	MAHOADON CHAR(5) PRIMARY KEY CONSTRAINT IDHDD DEFAULT DBO.AUTO_IDHDD(),
+	TENSACH NVARCHAR(50),
+	TENKH NVARCHAR(50),
+	SOLUONG INT,
+	GIABAN INT
+)
+select * from BANSACHH
+insert into BANSACHH values (DBO.AUTO_IDHDD(),N'Sách tiếng Việt','huy',3,15000)
+insert into BANSACHH values (DBO.AUTO_IDHDD(),N'Sách tiếng Việt','huy',3,15000)
+
+
+
+
+-----------------------------------------------------------------
+
+alter table BANSACH
+drop column MAHD
+
+alter table BANSACH
+add constraint CK_TONGTIEN check (TONGTIEN = SOLUONG * GIABAN)
+
+alter table BANSACH
+drop constraint CK_TONGTIEN
+
+insert into BANSACH values ('SH1','sách văn học','tran',10,15000)
+select * from BANSACH
+
+select SUM(SOLUONG) as tongtien from BANSACH
+
+select SACH.GIABAN
+from BANSACH , SACH 
+where BANSACH.TENSACH = SACH.TENSACH and BANSACH.TENKH = 'tran'
+
+
+
+
+
+
+
+
+
+
+

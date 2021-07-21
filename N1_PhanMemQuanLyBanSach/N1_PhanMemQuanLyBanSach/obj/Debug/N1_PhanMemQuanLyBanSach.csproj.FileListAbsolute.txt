@@ -1,0 +1,223 @@
+C:\Users\ASUS\Desktop\đề tài .NET\N1_PhanMemQuanLyBanSach\N1_PhanMemQuanLyBanSach\bin\Debug\N1_PhanMemQuanLyBanSach.exe.config
+C:\Users\ASUS\Desktop\đề tài .NET\N1_PhanMemQuanLyBanSach\N1_PhanMemQuanLyBanSach\bin\Debug\N1_PhanMemQuanLyBanSach.exe
+C:\Users\ASUS\Desktop\đề tài .NET\N1_PhanMemQuanLyBanSach\N1_PhanMemQuanLyBanSach\bin\Debug\N1_PhanMemQuanLyBanSach.pdb
+C:\Users\ASUS\Desktop\đề tài .NET\N1_PhanMemQuanLyBanSach\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\đề tài .NET\N1_PhanMemQuanLyBanSach\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_HoaDon.resources
+C:\Users\ASUS\Desktop\đề tài .NET\N1_PhanMemQuanLyBanSach\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.mainFrm.resources
+C:\Users\ASUS\Desktop\đề tài .NET\N1_PhanMemQuanLyBanSach\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.Properties.Resources.resources
+C:\Users\ASUS\Desktop\đề tài .NET\N1_PhanMemQuanLyBanSach\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\đề tài .NET\N1_PhanMemQuanLyBanSach\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.exe
+C:\Users\ASUS\Desktop\đề tài .NET\N1_PhanMemQuanLyBanSach\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.pdb
+C:\Users\ASUS\Desktop\đề tài .NET\N1_PhanMemQuanLyBanSach\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_ChiTietHoaDon.resources
+C:\Users\ASUS\Desktop\đề tài .NET\N1_PhanMemQuanLyBanSach\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_DanhSachKhachHang.resources
+C:\Users\ASUS\Desktop\đề tài .NET\N1_PhanMemQuanLyBanSach\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_DanhSachNhanVien.resources
+C:\Users\ASUS\Desktop\đề tài .NET\N1_PhanMemQuanLyBanSach\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_ChiTietPhieuNhap.resources
+C:\Users\ASUS\Desktop\đề tài .NET\N1_PhanMemQuanLyBanSach\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_PhieuNhap.resources
+C:\Users\ASUS\Desktop\đề tài .NET\N1_PhanMemQuanLyBanSach\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_SachMoi.resources
+C:\Users\ASUS\Desktop\đề tài .NET\N1_PhanMemQuanLyBanSach\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_BaoCaoDoanhThu.resources
+C:\Users\ASUS\Desktop\đề tài .NET\N1_PhanMemQuanLyBanSach\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_Sach.resources
+C:\Users\ASUS\Desktop\đề tài .NET\N1_PhanMemQuanLyBanSach\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_TonKho.resources
+C:\Users\ASUS\Desktop\đề tài .NET\N1_PhanMemQuanLyBanSach\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_DangKyKH.resources
+C:\Users\ASUS\Desktop\đề tài .NET\N1_PhanMemQuanLyBanSach\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_DangKyNV.resources
+C:\Users\ASUS\Desktop\đề tài .NET\N1_PhanMemQuanLyBanSach\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_DangNhap.resources
+C:\Users\ASUS\Desktop\demo_NET\N1_PhanMemQuanLyBanSach\bin\Debug\N1_PhanMemQuanLyBanSach.exe.config
+C:\Users\ASUS\Desktop\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.exe
+C:\Users\ASUS\Desktop\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.pdb
+C:\Users\ASUS\Desktop\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_BaoCaoDoanhThu.resources
+C:\Users\ASUS\Desktop\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_Sach.resources
+C:\Users\ASUS\Desktop\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_TonKho.resources
+C:\Users\ASUS\Desktop\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_DangKyKH.resources
+C:\Users\ASUS\Desktop\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_DangKyNV.resources
+C:\Users\ASUS\Desktop\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_DangNhap.resources
+C:\Users\ASUS\Desktop\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_SachMoi.resources
+C:\Users\ASUS\Desktop\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_ChiTietPhieuNhap.resources
+C:\Users\ASUS\Desktop\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_PhieuNhap.resources
+C:\Users\ASUS\Desktop\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_DanhSachNhanVien.resources
+C:\Users\ASUS\Desktop\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_DanhSachKhachHang.resources
+C:\Users\ASUS\Desktop\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_ChiTietHoaDon.resources
+C:\Users\ASUS\Desktop\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_HoaDon.resources
+C:\Users\ASUS\Desktop\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.mainFrm.resources
+C:\Users\ASUS\Desktop\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.Properties.Resources.resources
+C:\Users\ASUS\Desktop\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\demo_NET\N1_PhanMemQuanLyBanSach\bin\Debug\N1_PhanMemQuanLyBanSach.exe
+C:\Users\ASUS\Desktop\demo_NET\N1_PhanMemQuanLyBanSach\bin\Debug\N1_PhanMemQuanLyBanSach.pdb
+D:\Deskstop\demo_NET\N1_PhanMemQuanLyBanSach\bin\Debug\N1_PhanMemQuanLyBanSach.exe.config
+D:\Deskstop\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.exe
+D:\Deskstop\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.pdb
+D:\Deskstop\demo_NET\N1_PhanMemQuanLyBanSach\bin\Debug\N1_PhanMemQuanLyBanSach.exe
+D:\Deskstop\demo_NET\N1_PhanMemQuanLyBanSach\bin\Debug\N1_PhanMemQuanLyBanSach.pdb
+D:\Deskstop\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.csprojResolveAssemblyReference.cache
+D:\Deskstop\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_BaoCaoDoanhThu.resources
+D:\Deskstop\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_Sach.resources
+D:\Deskstop\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_TonKho.resources
+D:\Deskstop\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_DangKyKH.resources
+D:\Deskstop\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_DangKyNV.resources
+D:\Deskstop\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_DangNhap.resources
+D:\Deskstop\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_SachMoi.resources
+D:\Deskstop\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_ChiTietPhieuNhap.resources
+D:\Deskstop\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_PhieuNhap.resources
+D:\Deskstop\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_DanhSachNhanVien.resources
+D:\Deskstop\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_DanhSachKhachHang.resources
+D:\Deskstop\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_ChiTietHoaDon.resources
+D:\Deskstop\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_HoaDon.resources
+D:\Deskstop\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.mainFrm.resources
+D:\Deskstop\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.Properties.Resources.resources
+D:\Deskstop\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.csproj.GenerateResource.Cache
+D:\Deskstop\New folder (4)\demo_NET\N1_PhanMemQuanLyBanSach\bin\Debug\N1_PhanMemQuanLyBanSach.exe.config
+D:\Deskstop\New folder (4)\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.exe
+D:\Deskstop\New folder (4)\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.pdb
+D:\Deskstop\New folder (4)\demo_NET\N1_PhanMemQuanLyBanSach\bin\Debug\N1_PhanMemQuanLyBanSach.exe
+D:\Deskstop\New folder (4)\demo_NET\N1_PhanMemQuanLyBanSach\bin\Debug\N1_PhanMemQuanLyBanSach.pdb
+D:\Deskstop\New folder (4)\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.csprojResolveAssemblyReference.cache
+D:\Deskstop\New folder (4)\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_Sach.resources
+D:\Deskstop\New folder (4)\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_DangKyKH.resources
+D:\Deskstop\New folder (4)\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_DangKyNV.resources
+D:\Deskstop\New folder (4)\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_DangNhap.resources
+D:\Deskstop\New folder (4)\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_DanhSachNhanVien.resources
+D:\Deskstop\New folder (4)\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_DanhSachKhachHang.resources
+D:\Deskstop\New folder (4)\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_HoaDon.resources
+D:\Deskstop\New folder (4)\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.mainFrm.resources
+D:\Deskstop\New folder (4)\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.Properties.Resources.resources
+D:\Deskstop\New folder (4)\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.csproj.GenerateResource.Cache
+D:\Deskstop\New folder (4)\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_BanSach.resources
+D:\Deskstop\New folder (4)\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_Report_HoaDon.resources
+F:\1\TÀI LIỆUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU\demo_NET\N1_PhanMemQuanLyBanSach\bin\Debug\N1_PhanMemQuanLyBanSach.exe.config
+F:\1\TÀI LIỆUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.exe
+F:\1\TÀI LIỆUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.pdb
+F:\1\TÀI LIỆUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.csprojResolveAssemblyReference.cache
+F:\1\TÀI LIỆUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_Report_HoaDon.resources
+F:\1\TÀI LIỆUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_BanSach.resources
+F:\1\TÀI LIỆUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_Sach.resources
+F:\1\TÀI LIỆUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_DangKyKH.resources
+F:\1\TÀI LIỆUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_DangKyNV.resources
+F:\1\TÀI LIỆUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_DangNhap.resources
+F:\1\TÀI LIỆUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_DanhSachNhanVien.resources
+F:\1\TÀI LIỆUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_DanhSachKhachHang.resources
+F:\1\TÀI LIỆUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_HoaDon.resources
+F:\1\TÀI LIỆUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.mainFrm.resources
+F:\1\TÀI LIỆUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.Properties.Resources.resources
+F:\1\TÀI LIỆUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.csproj.GenerateResource.Cache
+F:\1\TÀI LIỆUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU\demo_NET\N1_PhanMemQuanLyBanSach\bin\Debug\N1_PhanMemQuanLyBanSach.exe
+F:\1\TÀI LIỆUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU\demo_NET\N1_PhanMemQuanLyBanSach\bin\Debug\N1_PhanMemQuanLyBanSach.pdb
+C:\Users\hufi\Desktop\test\demo_NET\N1_PhanMemQuanLyBanSach\bin\Debug\N1_PhanMemQuanLyBanSach.exe.config
+C:\Users\hufi\Desktop\test\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.exe
+C:\Users\hufi\Desktop\test\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.pdb
+C:\Users\hufi\Desktop\test\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.csprojResolveAssemblyReference.cache
+C:\Users\hufi\Desktop\test\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_Report_HoaDon.resources
+C:\Users\hufi\Desktop\test\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_BanSach.resources
+C:\Users\hufi\Desktop\test\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_Sach.resources
+C:\Users\hufi\Desktop\test\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_DangKyKH.resources
+C:\Users\hufi\Desktop\test\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_DangKyNV.resources
+C:\Users\hufi\Desktop\test\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_DangNhap.resources
+C:\Users\hufi\Desktop\test\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_DanhSachNhanVien.resources
+C:\Users\hufi\Desktop\test\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_DanhSachKhachHang.resources
+C:\Users\hufi\Desktop\test\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_HoaDon.resources
+C:\Users\hufi\Desktop\test\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.mainFrm.resources
+C:\Users\hufi\Desktop\test\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.Properties.Resources.resources
+C:\Users\hufi\Desktop\test\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.csproj.GenerateResource.Cache
+C:\Users\hufi\Desktop\test\demo_NET\N1_PhanMemQuanLyBanSach\bin\Debug\N1_PhanMemQuanLyBanSach.exe
+C:\Users\hufi\Desktop\test\demo_NET\N1_PhanMemQuanLyBanSach\bin\Debug\N1_PhanMemQuanLyBanSach.pdb
+C:\Users\hufi\Desktop\test_NET\demo_NET\N1_PhanMemQuanLyBanSach\bin\Debug\N1_PhanMemQuanLyBanSach.exe.config
+C:\Users\hufi\Desktop\test_NET\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.exe
+C:\Users\hufi\Desktop\test_NET\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.pdb
+C:\Users\hufi\Desktop\test_NET\demo_NET\N1_PhanMemQuanLyBanSach\bin\Debug\N1_PhanMemQuanLyBanSach.exe
+C:\Users\hufi\Desktop\test_NET\demo_NET\N1_PhanMemQuanLyBanSach\bin\Debug\N1_PhanMemQuanLyBanSach.pdb
+C:\Users\hufi\Desktop\test_NET\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.csprojResolveAssemblyReference.cache
+C:\Users\hufi\Desktop\test_NET\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_Report_HoaDon.resources
+C:\Users\hufi\Desktop\test_NET\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_BanSach.resources
+C:\Users\hufi\Desktop\test_NET\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_Sach.resources
+C:\Users\hufi\Desktop\test_NET\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_DangKyKH.resources
+C:\Users\hufi\Desktop\test_NET\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_DangKyNV.resources
+C:\Users\hufi\Desktop\test_NET\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_DangNhap.resources
+C:\Users\hufi\Desktop\test_NET\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_DanhSachNhanVien.resources
+C:\Users\hufi\Desktop\test_NET\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_DanhSachKhachHang.resources
+C:\Users\hufi\Desktop\test_NET\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_HoaDon.resources
+C:\Users\hufi\Desktop\test_NET\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.mainFrm.resources
+C:\Users\hufi\Desktop\test_NET\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.Properties.Resources.resources
+C:\Users\hufi\Desktop\test_NET\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.csproj.GenerateResource.Cache
+G:\1\TÀI LIỆUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU\test_NET_2\demo_NET\N1_PhanMemQuanLyBanSach\bin\Debug\N1_PhanMemQuanLyBanSach.exe.config
+G:\1\TÀI LIỆUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU\test_NET_2\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.exe
+G:\1\TÀI LIỆUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU\test_NET_2\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.pdb
+G:\1\TÀI LIỆUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU\test_NET_2\demo_NET\N1_PhanMemQuanLyBanSach\bin\Debug\N1_PhanMemQuanLyBanSach.exe
+G:\1\TÀI LIỆUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU\test_NET_2\demo_NET\N1_PhanMemQuanLyBanSach\bin\Debug\N1_PhanMemQuanLyBanSach.pdb
+G:\1\TÀI LIỆUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU\test_NET_2\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.csprojResolveAssemblyReference.cache
+G:\1\TÀI LIỆUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU\test_NET_2\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_Report_HoaDon.resources
+G:\1\TÀI LIỆUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU\test_NET_2\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_Sach.resources
+G:\1\TÀI LIỆUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU\test_NET_2\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_DangKyKH.resources
+G:\1\TÀI LIỆUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU\test_NET_2\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_DangKyNV.resources
+G:\1\TÀI LIỆUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU\test_NET_2\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_DangNhap.resources
+G:\1\TÀI LIỆUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU\test_NET_2\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_DanhSachNhanVien.resources
+G:\1\TÀI LIỆUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU\test_NET_2\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_DanhSachKhachHang.resources
+G:\1\TÀI LIỆUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU\test_NET_2\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_HoaDon.resources
+G:\1\TÀI LIỆUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU\test_NET_2\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.mainFrm.resources
+G:\1\TÀI LIỆUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU\test_NET_2\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.Properties.Resources.resources
+G:\1\TÀI LIỆUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU\test_NET_2\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.csproj.GenerateResource.Cache
+C:\Users\HP\OneDrive\Máy tính\Tài Liệu\test_NET_2\demo_NET\N1_PhanMemQuanLyBanSach\bin\Debug\N1_PhanMemQuanLyBanSach.exe.config
+C:\Users\HP\OneDrive\Máy tính\Tài Liệu\test_NET_2\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.exe
+C:\Users\HP\OneDrive\Máy tính\Tài Liệu\test_NET_2\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.pdb
+C:\Users\HP\OneDrive\Máy tính\Tài Liệu\test_NET_2\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.csprojResolveAssemblyReference.cache
+C:\Users\HP\OneDrive\Máy tính\Tài Liệu\test_NET_2\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_Report_HoaDon.resources
+C:\Users\HP\OneDrive\Máy tính\Tài Liệu\test_NET_2\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_Sach.resources
+C:\Users\HP\OneDrive\Máy tính\Tài Liệu\test_NET_2\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_DangKyKH.resources
+C:\Users\HP\OneDrive\Máy tính\Tài Liệu\test_NET_2\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_DangKyNV.resources
+C:\Users\HP\OneDrive\Máy tính\Tài Liệu\test_NET_2\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_DangNhap.resources
+C:\Users\HP\OneDrive\Máy tính\Tài Liệu\test_NET_2\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_DanhSachNhanVien.resources
+C:\Users\HP\OneDrive\Máy tính\Tài Liệu\test_NET_2\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_DanhSachKhachHang.resources
+C:\Users\HP\OneDrive\Máy tính\Tài Liệu\test_NET_2\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_HoaDon.resources
+C:\Users\HP\OneDrive\Máy tính\Tài Liệu\test_NET_2\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.mainFrm.resources
+C:\Users\HP\OneDrive\Máy tính\Tài Liệu\test_NET_2\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.Properties.Resources.resources
+C:\Users\HP\OneDrive\Máy tính\Tài Liệu\test_NET_2\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.csproj.GenerateResource.Cache
+C:\Users\HP\OneDrive\Máy tính\Tài Liệu\test_NET_2\demo_NET\N1_PhanMemQuanLyBanSach\bin\Debug\N1_PhanMemQuanLyBanSach.exe
+C:\Users\HP\OneDrive\Máy tính\Tài Liệu\test_NET_2\demo_NET\N1_PhanMemQuanLyBanSach\bin\Debug\N1_PhanMemQuanLyBanSach.pdb
+D:\Deskstop\test_NET_2\demo_NET\N1_PhanMemQuanLyBanSach\bin\Debug\N1_PhanMemQuanLyBanSach.exe.config
+D:\Deskstop\test_NET_2\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.exe
+D:\Deskstop\test_NET_2\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.pdb
+D:\Deskstop\test_NET_2\demo_NET\N1_PhanMemQuanLyBanSach\bin\Debug\N1_PhanMemQuanLyBanSach.exe
+D:\Deskstop\test_NET_2\demo_NET\N1_PhanMemQuanLyBanSach\bin\Debug\N1_PhanMemQuanLyBanSach.pdb
+D:\Deskstop\test_NET_2\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.csprojResolveAssemblyReference.cache
+D:\Deskstop\test_NET_2\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_Report_HoaDon.resources
+D:\Deskstop\test_NET_2\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_Sach.resources
+D:\Deskstop\test_NET_2\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_DangKyKH.resources
+D:\Deskstop\test_NET_2\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_DangKyNV.resources
+D:\Deskstop\test_NET_2\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_DangNhap.resources
+D:\Deskstop\test_NET_2\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_DanhSachNhanVien.resources
+D:\Deskstop\test_NET_2\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_DanhSachKhachHang.resources
+D:\Deskstop\test_NET_2\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_HoaDon.resources
+D:\Deskstop\test_NET_2\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.mainFrm.resources
+D:\Deskstop\test_NET_2\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.Properties.Resources.resources
+D:\Deskstop\test_NET_2\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.csproj.GenerateResource.Cache
+C:\Users\vanvu\Desktop\DoAnMon\3_HK1\DoAn_.NET\demo_NET\N1_PhanMemQuanLyBanSach\bin\Debug\N1_PhanMemQuanLyBanSach.exe.config
+C:\Users\vanvu\Desktop\DoAnMon\3_HK1\DoAn_.NET\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.exe
+C:\Users\vanvu\Desktop\DoAnMon\3_HK1\DoAn_.NET\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.pdb
+C:\Users\vanvu\Desktop\DoAnMon\3_HK1\DoAn_.NET\demo_NET\N1_PhanMemQuanLyBanSach\bin\Debug\N1_PhanMemQuanLyBanSach.exe
+C:\Users\vanvu\Desktop\DoAnMon\3_HK1\DoAn_.NET\demo_NET\N1_PhanMemQuanLyBanSach\bin\Debug\N1_PhanMemQuanLyBanSach.pdb
+C:\Users\vanvu\Desktop\DoAnMon\3_HK1\DoAn_.NET\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.csprojResolveAssemblyReference.cache
+C:\Users\vanvu\Desktop\DoAnMon\3_HK1\DoAn_.NET\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_Report_HoaDon.resources
+C:\Users\vanvu\Desktop\DoAnMon\3_HK1\DoAn_.NET\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_Sach.resources
+C:\Users\vanvu\Desktop\DoAnMon\3_HK1\DoAn_.NET\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_DangKyKH.resources
+C:\Users\vanvu\Desktop\DoAnMon\3_HK1\DoAn_.NET\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_DangKyNV.resources
+C:\Users\vanvu\Desktop\DoAnMon\3_HK1\DoAn_.NET\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_DangNhap.resources
+C:\Users\vanvu\Desktop\DoAnMon\3_HK1\DoAn_.NET\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_DanhSachNhanVien.resources
+C:\Users\vanvu\Desktop\DoAnMon\3_HK1\DoAn_.NET\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_DanhSachKhachHang.resources
+C:\Users\vanvu\Desktop\DoAnMon\3_HK1\DoAn_.NET\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_HoaDon.resources
+C:\Users\vanvu\Desktop\DoAnMon\3_HK1\DoAn_.NET\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.mainFrm.resources
+C:\Users\vanvu\Desktop\DoAnMon\3_HK1\DoAn_.NET\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.Properties.Resources.resources
+C:\Users\vanvu\Desktop\DoAnMon\3_HK1\DoAn_.NET\demo_NET\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.csproj.GenerateResource.Cache
+C:\Users\vanvu\Desktop\DoAnMon\3_HK1\DoAn_.NET\N1_PhanMemQuanLyBanSach\N1_PhanMemQuanLyBanSach\bin\Debug\N1_PhanMemQuanLyBanSach.exe.config
+C:\Users\vanvu\Desktop\DoAnMon\3_HK1\DoAn_.NET\N1_PhanMemQuanLyBanSach\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.exe
+C:\Users\vanvu\Desktop\DoAnMon\3_HK1\DoAn_.NET\N1_PhanMemQuanLyBanSach\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.pdb
+C:\Users\vanvu\Desktop\DoAnMon\3_HK1\DoAn_.NET\N1_PhanMemQuanLyBanSach\N1_PhanMemQuanLyBanSach\bin\Debug\N1_PhanMemQuanLyBanSach.exe
+C:\Users\vanvu\Desktop\DoAnMon\3_HK1\DoAn_.NET\N1_PhanMemQuanLyBanSach\N1_PhanMemQuanLyBanSach\bin\Debug\N1_PhanMemQuanLyBanSach.pdb
+C:\Users\vanvu\Desktop\DoAnMon\3_HK1\DoAn_.NET\N1_PhanMemQuanLyBanSach\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.csprojResolveAssemblyReference.cache
+C:\Users\vanvu\Desktop\DoAnMon\3_HK1\DoAn_.NET\N1_PhanMemQuanLyBanSach\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_Report_HoaDon.resources
+C:\Users\vanvu\Desktop\DoAnMon\3_HK1\DoAn_.NET\N1_PhanMemQuanLyBanSach\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_Sach.resources
+C:\Users\vanvu\Desktop\DoAnMon\3_HK1\DoAn_.NET\N1_PhanMemQuanLyBanSach\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_DangKyKH.resources
+C:\Users\vanvu\Desktop\DoAnMon\3_HK1\DoAn_.NET\N1_PhanMemQuanLyBanSach\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_DangKyNV.resources
+C:\Users\vanvu\Desktop\DoAnMon\3_HK1\DoAn_.NET\N1_PhanMemQuanLyBanSach\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_DangNhap.resources
+C:\Users\vanvu\Desktop\DoAnMon\3_HK1\DoAn_.NET\N1_PhanMemQuanLyBanSach\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_DanhSachNhanVien.resources
+C:\Users\vanvu\Desktop\DoAnMon\3_HK1\DoAn_.NET\N1_PhanMemQuanLyBanSach\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_DanhSachKhachHang.resources
+C:\Users\vanvu\Desktop\DoAnMon\3_HK1\DoAn_.NET\N1_PhanMemQuanLyBanSach\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.frm_HoaDon.resources
+C:\Users\vanvu\Desktop\DoAnMon\3_HK1\DoAn_.NET\N1_PhanMemQuanLyBanSach\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.mainFrm.resources
+C:\Users\vanvu\Desktop\DoAnMon\3_HK1\DoAn_.NET\N1_PhanMemQuanLyBanSach\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.Properties.Resources.resources
+C:\Users\vanvu\Desktop\DoAnMon\3_HK1\DoAn_.NET\N1_PhanMemQuanLyBanSach\N1_PhanMemQuanLyBanSach\obj\Debug\N1_PhanMemQuanLyBanSach.csproj.GenerateResource.Cache
